@@ -1,0 +1,17 @@
+<receituario>
+    <paciente>
+        <nome>Ana Maria Marina</nome>
+        <idade>7 anos</idade>
+    </paciente>
+    <medicamentos>
+        <medicamento>
+            <nome>Xarope SemTosse</nome>
+            <posologia>1 colher 3x ao dia</posologia>
+        </medicamento>
+        <medicamento>
+            <nome>Gyellow</nome>
+            <modo_de_uso>uso externo</modo_de_uso>
+            <posologia>aplicar no braço 1x por dia ao deitar</posologia>
+        </medicamento>
+    </medicamentos>
+</receituario>

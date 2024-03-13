@@ -1,0 +1,17 @@
+<curriculo>
+    <informacoes_pessoais>
+        <nome>Guilherme dos Santos Moreira</nome>
+        <idade>23 anos</idade>
+    </informacoes_pessoais>
+    <formacao>
+        <curso>Jogos Digitais</curso>
+    </formacao>
+    <idiomas>
+        <idioma>Japonês</idioma>
+        <idioma>Coreano</idioma>
+        <idioma>Tailandês</idioma>
+    </idiomas>
+    <cursos_adicionais>
+        <curso>1º dan Karatê Shotokan</curso>
+    </cursos_adicionais>
+</curriculo>
