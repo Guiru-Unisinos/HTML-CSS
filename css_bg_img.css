@@ -1,0 +1,14 @@
+#image {
+    background-image: url(bali.jpg);
+    width: 100%;
+    height: 100%;
+}
+
+#gradiente-linear {
+    color: red;
+    background: linear-gradient(black, white);
+}
+
+#gradiente-radial {
+    background: radial-gradient(black, white);
+}
